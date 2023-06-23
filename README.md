@@ -9,5 +9,6 @@
     <br/>
     <img src="https://cansayan.com.tr/assets/upload/tr/kategori/projeler/projeler.jpg"/>
     <br/>
-    <img src="https://cansayan.com.tr/assets/img/mulberry.svg"/>
+    <br/>
+    <img src="https://cansayan.com.tr/assets/img/mulberry.svg" />
 </div>
