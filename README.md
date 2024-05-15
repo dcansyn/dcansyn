@@ -11,4 +11,9 @@
     <br/>
     <br/>
     <img src="https://cansayan.com.tr/assets/img/mulberry.svg?v=2" />
+    <br/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dcansyn&show_icons=true&locale=en" />
+    <br/>
+    <br/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dcansyn" />
 </div>
